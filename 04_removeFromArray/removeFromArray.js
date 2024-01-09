@@ -1,4 +1,7 @@
-const removeFromArray = function() {
+const removeFromArray = function(arreglo, remover) {
+    var arreglo = [arreglo]
+    for 
+    return arreglo
 
 };
 
